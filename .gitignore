@@ -1,0 +1,5 @@
+# detectcat 
+*.bk
+*_bk
+*swp
+data/
